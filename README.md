@@ -19,7 +19,7 @@ Desafio proposto pela Rocketseat para conclusão do curso Discover. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto Árvore de Links" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto Árvore de Links" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A Árvore de Links é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://ronaldo-hymans.github.io/arvoreLinks)
+- [Acesse o projeto finalizado, online](https://ronaldo-hymans.github.io/arvoreLinks/)
 
 - [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
